@@ -1,1 +1,0 @@
-This is a note added in the feature branch.
